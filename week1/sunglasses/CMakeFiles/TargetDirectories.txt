@@ -1,0 +1,3 @@
+/home/fernando/work/CVlabs/week1/sunglasses/CMakeFiles/rebuild_cache.dir
+/home/fernando/work/CVlabs/week1/sunglasses/CMakeFiles/edit_cache.dir
+/home/fernando/work/CVlabs/week1/sunglasses/CMakeFiles/sunglasses.dir
