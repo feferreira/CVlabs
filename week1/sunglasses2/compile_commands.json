@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/fernando/work/CVlabs/week1/sunglasses",
-  "command": "/usr/bin/c++   -isystem /usr/include/opencv4    -o CMakeFiles/sunglasses.dir/sunglasses.cpp.o -c /home/fernando/work/CVlabs/week1/sunglasses/sunglasses.cpp",
-  "file": "/home/fernando/work/CVlabs/week1/sunglasses/sunglasses.cpp"
+  "directory": "/home/fernando/work/CVlabs/week1/sunglasses2",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv4    -o CMakeFiles/sunglasses.dir/sunglasses.cpp.o -c /home/fernando/work/CVlabs/week1/sunglasses2/sunglasses.cpp",
+  "file": "/home/fernando/work/CVlabs/week1/sunglasses2/sunglasses.cpp"
 }
 ]
